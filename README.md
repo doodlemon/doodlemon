@@ -1,8 +1,8 @@
 # Hi 👋, I'm Masah Jsri
-A human with a hunger for more knowledge
+A girl always ready to learn
 ![Visitor Count](https://komarev.com/ghpvc/?username=doodlemon&color=green)
 ---
-👨‍💻 I’m currently working on an ASP.NET project
+👨‍💻 I’m currently working on an [ASP.NET project]
 
 💙 I’m currently learning [REACT]
 
@@ -16,3 +16,7 @@ A human with a hunger for more knowledge
 doodlemon/doodlemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Masah's Activity Graph](https://github-readme-activity-graph.vercel.app/api?username=doodlemon&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Masah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=doodlemon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
