@@ -22,7 +22,7 @@ A girl always ready to learn
   <tr>
     <td>
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-doodlemon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)" alt="Activity Graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-doodlemon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)" alt="Activity Graph" />
       </a>
     </td>
     <td>
