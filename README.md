@@ -22,7 +22,7 @@ A girl always ready to learn
   <tr>
     <td>
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/api?username=doodlemon&theme=react" alt="Activity Graph" />
+        <img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=doodlemon&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="Activity Graph" />
       </a>
     </td>
     <td>
