@@ -1,7 +1,7 @@
 # Hi 👋, I'm Masah Jsri
 A girl always ready to learn
 
-<img src="https://komarev.com/ghpvc/?username=doodlemon&color=green" alt="Visitor Count" width="100" height="100" style>
+![Visitor Count](https://komarev.com/ghpvc/?username=doodlemon&color=green)
 
 
 <table style="width:100%; table-layout:fixed;">
@@ -18,7 +18,7 @@ A girl always ready to learn
     </td>
     <td style="width:50%; text-align:center;">
       <!-- Image -->
-      <img src="https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F702561610608514562%2F&psig=AOvVaw2T9Ub2-qHmnKxvdTO0SaBS&ust=1733501555640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjgndiCkYoDFQAAAAAdAAAAABAf" />
+      <img src="https://i.pinimg.com/originals/fb/68/41/fb6841b5b9701782a9dd24bd6702da5a.gif" />
     </td>
   </tr>
 </table>
