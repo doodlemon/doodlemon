@@ -1,6 +1,10 @@
 # Hi 👋, I'm Masah Jsri
 A girl always ready to learn
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=doodlemon&color=green)
+
+![Retro Graphic](https://via.placeholder.com/400x200.png)
+
 ---
 👨‍💻 I’m currently working on an [ASP.NET project]
 
@@ -8,7 +12,7 @@ A girl always ready to learn
 
 💯 All of my projects are available at [Github](https://github.com/your-doodlemon)
 
-🌎 Visit my [LinkedIn](https://linkedin.com/in/your-profile)
+🌎 Visit my [LinkedIn](www.linkedin.com/in/masah-jsri-b66b54263)
 
 ✨ How to reach me: masajesri03.MJ@gmail.com
 
