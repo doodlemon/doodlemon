@@ -14,19 +14,20 @@ A girl always ready to learn
 
 ---
 
-<!---
-doodlemon/doodlemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<div align="center">
-[![Masah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=doodlemon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doodlemon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Masah's Activity Graph](https://github-readme-activity-graph.vercel.app/api?username=doodlemon&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=doodlemon&theme=radical)](https://git.io/streak-stats)
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/api?username=doodlemon&theme=react" alt="Activity Graph" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=doodlemon&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
